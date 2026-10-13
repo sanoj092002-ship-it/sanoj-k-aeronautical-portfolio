@@ -1,5 +1,7 @@
 # Sanoj K — Portfolio
 
+Live portfolio: https://sanoj-k-aeronautical-portfolio.vercel.app/
+
 A responsive single-page portfolio inspired by the visual language and section flow of [Polished](https://polished.framer.media/): dark canvas, floating navigation, a cursor-reactive engineering grid and flow-field behind the introduction, soft blue lighting, editorial type, a continuously moving horizontal project gallery with hover image reveal, reveal motion, horizontal experience carousel, FAQ accordions, and a contact section.
 
 ## Preview
@@ -24,4 +26,3 @@ The About section intentionally has no portrait image. Selected Work begins with
 The certificate copies obscure reference numbers and handwritten signatures. No Dautya or Nexmentho certificate image was supplied. The contact form opens the visitor’s email app; it does not send or store messages on this site.
 
 Before publishing, confirm dates, figures, roles, publication details, and credentials against original records, as noted in the supplied candidate brief.
-
